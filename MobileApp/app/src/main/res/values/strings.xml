@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Mobile App</string>
+    <string name="facebook_app_id">2625837080819783</string>
+    <string name="fb_login_protocol_scheme">fb2625837080819783</string>
+    <string name="CONSUMER_KEY">B6qZy5DBjqP7lDC8MLbAscmse</string>
+    <string name="CONSUMER_SECRET">tdVOZh6Jd10Xx5ydM28LHXpjmqO0w4FueyGM7hcOtQja7tmYYv</string>
+    <string name="custom_log_in_with_twitter">Custom Log in with Twitter</string>
+    <string name="get_profile_image">Fetch Profile Image</string>
+
+</resources>
